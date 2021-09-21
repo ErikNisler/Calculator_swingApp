@@ -1,2 +1,4 @@
-# kalkulacka_swing
-Kalkulačka ve swingu
+Calculator
+--
+
+Basic simple swing calculator using basic math operations
